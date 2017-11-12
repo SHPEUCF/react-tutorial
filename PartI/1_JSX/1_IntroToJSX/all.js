@@ -15,7 +15,7 @@
 
    looks like HTML, generates HTML from JS, basically
 
-   DO: lick NEXT
+   DO: click NEXT
 
 4. What is JSX?
 
